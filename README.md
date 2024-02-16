@@ -76,5 +76,11 @@ Este projeto utiliza o SQLite3 como banco de dados padrão. O arquivo do banco d
 - `home.html`: A página principal com um formulário de cadastro.
 - `users.html`: Exibe dados do usuário (user_id, nome e idade) recuperados do banco de dados.
 
+##Prints 
+
+![Captura de tela de 2024-02-16 16-51-15](https://github.com/devheloisacabral/signup-django-sqlite3/assets/108575773/e8a672ef-d4ac-466a-a572-93339a51fc80)
+
+![Captura de tela de 2024-02-16 16-51-08](https://github.com/devheloisacabral/signup-django-sqlite3/assets/108575773/636aaeae-8f18-4b16-88ff-be6c224ffc5b)
+
 
 Obrigada pela sua atenção! 🚀
