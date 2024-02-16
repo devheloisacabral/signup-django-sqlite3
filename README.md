@@ -85,4 +85,4 @@ Este projeto utiliza o SQLite3 como banco de dados padrão. O arquivo do banco d
 
 
 
-Obrigada pela sua atenção! 🚀
+Obrigada pela sua atenção! <3
